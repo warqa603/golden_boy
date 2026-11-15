@@ -3,8 +3,7 @@
 **Effective Date:** November 15, 2026  
 **Last Updated:** November 15, 2026  
 **Application ID:** `com.app.lamine_yamal_news_and_skills`  
-**Developer:** Warqa Apps (`warqa603`)  
-**Official Repository:** [https://github.com/warqa603/](https://github.com/warqa603/)  
+**Developer:** Warqa Apps  
 **Contact Email:** [bestmodels603@gmail.com](mailto:bestmodels603@gmail.com)
 
 ---
@@ -85,16 +84,12 @@ Because the Application does not transmit or store personal data on external ser
 
 ## 8. Changes to This Privacy Policy
 
-We may update our Privacy Policy periodically to reflect changes in game features or legal obligations. Any updates will be posted to this document and published on our official GitHub repository:
-- [https://github.com/warqa603/](https://github.com/warqa603/)
-
-We encourage you to review this page periodically for any changes.
+We may update our Privacy Policy periodically to reflect changes in game features or legal obligations. Any updates will be posted to this document. We encourage you to review this page periodically for any changes.
 
 ---
 
 ## 9. Contact Information
 
 If you have any questions, comments, or concerns regarding this Privacy Policy, please contact us:
-- **Developer:** Warqa Apps (`warqa603`)
+- **Developer:** Warqa Apps
 - **Email:** [bestmodels603@gmail.com](mailto:bestmodels603@gmail.com)
-- **GitHub:** [https://github.com/warqa603/](https://github.com/warqa603/)
